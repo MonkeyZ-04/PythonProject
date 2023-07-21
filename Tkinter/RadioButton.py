@@ -1,6 +1,5 @@
 import tkinter.messagebox
 from tkinter import *
-from tkinter.messagebox import *
 root = Tk()
 root.title("My GUI")
 root.geometry("500x500")
